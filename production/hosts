@@ -1,0 +1,8 @@
+[servers]
+ansible-front
+ansible-server-sc1
+ansible-server-sc2
+ansible-server-sc3
+ansible-server-tc1
+ansible-server-zb1
+ansible-server-admin
